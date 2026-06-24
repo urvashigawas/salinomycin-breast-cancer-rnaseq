@@ -6,23 +6,15 @@ This repository contains an end-to-end workflow for analyzing RNA-seq raw count 
 
 ## 📊 Dataset Overview
 
-* 
+
 **Organism:** *Homo sapiens* (Human) 
 
-
-* 
 **Platform:** Illumina HiSeq 4000 
 
-
-* 
 **Reference Genome:** GRCh37 mapped via STAR 
 
-
-* 
 **Experimental Design:** 3 Replicates of Untreated Controls vs. 3 Replicates of Salinomycin-Treated samples (24-hour time point).
 
-
-* 
 **Data Accession:** Raw count data is archived under GEO accession [GSE135514](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE135514).
 
 
