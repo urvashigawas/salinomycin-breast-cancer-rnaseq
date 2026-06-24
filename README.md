@@ -59,12 +59,10 @@ install.packages("ggplot2")
 
 ### Input Files Required
 
-1. 
-`count_data.csv`: Matrix featuring raw integers of reads mapped to individual gene Ensembl IDs.
+1. `count_data.csv`: Matrix featuring raw integers of reads mapped to individual gene Ensembl IDs.
 
 
-2. 
-`metadata.csv`: Annotation mapping sample titles to their experimental `condition` group.
+2. `metadata.csv`: Annotation mapping sample titles to their experimental `condition` group.
 
 
 
